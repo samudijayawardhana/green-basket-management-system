@@ -60,9 +60,9 @@ The Green Basket is an organic grocery store product management system that hand
 ## Project Interface
 
 
-[Login Screen](<img width="340" height="272" alt="image" src="https://github.com/user-attachments/assets/40d23a04-477c-4408-9b6b-22a188e3ab4e" />
-) [Product Management](<img width="526" height="428" alt="image" src="https://github.com/user-attachments/assets/4eb01124-ddd9-4c93-b45d-89e164752f3a" />
-) (<img width="450" height="403" alt="image" src="https://github.com/user-attachments/assets/3004c359-738b-404e-a7cf-05d2e532c3a8" />
+(<img width="340" height="272" alt="image" src="https://github.com/user-attachments/assets/40d23a04-477c-4408-9b6b-22a188e3ab4e" />
+<img width="526" height="428" alt="image" src="https://github.com/user-attachments/assets/4eb01124-ddd9-4c93-b45d-89e164752f3a" />
+ <img width="450" height="403" alt="image" src="https://github.com/user-attachments/assets/3004c359-738b-404e-a7cf-05d2e532c3a8" />
 ) 
 
 ## Database Design (ER Diagram)
